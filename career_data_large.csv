@@ -1,0 +1,501 @@
+Stream,Subject1_Strength,Subject2_Strength,Subject3_Strength,Subject4_Strength,Recommended_Career
+Commerce,8,8,9,5,Business Management
+Arts,6,7,3,1,Psychology
+Arts,8,2,3,3,Journalism
+Commerce,4,10,8,9,Economics
+Arts,3,1,1,1,Journalism
+Commerce,8,2,6,2,Business Management
+Commerce,5,6,3,2,Marketing
+Arts,10,7,5,1,Architecture
+Science,8,5,5,4,Physics
+Commerce,10,4,4,2,Accounting
+Science,9,4,5,10,Medicine
+Science,4,4,4,5,Data Science
+Commerce,10,6,8,5,Marketing
+Science,5,9,9,6,Data Science
+Commerce,8,3,5,1,Accounting
+Science,4,9,1,1,Physics
+Science,2,7,6,6,Data Science
+Science,4,3,1,9,Biotechnology
+Arts,4,9,10,7,Design
+Arts,9,7,9,9,Architecture
+Arts,3,1,2,7,Psychology
+Arts,2,5,10,8,Psychology
+Science,4,1,1,7,Engineering
+Science,9,1,1,6,Biotechnology
+Arts,9,4,8,9,Graphic Design
+Arts,7,5,4,3,Graphic Design
+Arts,4,8,2,7,Psychology
+Commerce,2,8,6,3,Marketing
+Science,2,8,4,1,Physics
+Commerce,5,9,2,7,Economics
+Commerce,5,5,6,3,Accounting
+Commerce,7,2,6,2,Accounting
+Science,7,7,3,5,Physics
+Science,4,6,10,8,Biotechnology
+Science,5,2,4,4,Physics
+Science,6,4,3,2,Medicine
+Commerce,9,7,7,3,Marketing
+Commerce,4,7,9,8,Accounting
+Arts,4,2,3,5,Architecture
+Arts,9,10,8,2,Architecture
+Science,8,7,4,8,Biotechnology
+Science,5,4,2,8,Physics
+Arts,7,8,1,10,Journalism
+Arts,2,3,9,10,Psychology
+Arts,5,6,6,8,Architecture
+Arts,1,1,1,8,Journalism
+Commerce,3,10,9,5,Business Management
+Science,5,7,5,2,Medicine
+Arts,3,4,4,6,Design
+Arts,6,3,2,10,Architecture
+Arts,5,3,6,10,Design
+Commerce,10,3,1,8,Accounting
+Science,7,5,2,8,Physics
+Commerce,4,9,8,2,Finance
+Commerce,2,4,6,1,Business Management
+Science,8,6,2,5,Data Science
+Arts,7,7,1,8,Journalism
+Science,5,5,7,7,Biotechnology
+Arts,8,1,9,3,Graphic Design
+Commerce,8,2,9,4,Economics
+Science,3,3,4,1,Data Science
+Commerce,7,1,9,8,Marketing
+Commerce,9,10,6,3,Accounting
+Arts,9,10,6,10,Journalism
+Arts,5,10,7,2,Psychology
+Science,8,10,3,6,Physics
+Commerce,5,1,2,4,Finance
+Arts,8,3,8,10,Psychology
+Commerce,2,7,9,2,Marketing
+Science,8,3,2,4,Physics
+Commerce,1,1,5,6,Finance
+Arts,9,4,10,2,Architecture
+Commerce,9,6,2,9,Accounting
+Science,3,5,4,4,Medicine
+Commerce,4,3,8,6,Marketing
+Science,9,5,9,10,Engineering
+Science,4,7,1,2,Medicine
+Commerce,7,8,6,9,Marketing
+Science,3,2,4,2,Engineering
+Commerce,3,1,6,8,Economics
+Arts,4,2,9,3,Journalism
+Science,4,4,9,3,Engineering
+Commerce,6,7,9,4,Marketing
+Arts,5,10,7,1,Psychology
+Commerce,3,10,8,10,Marketing
+Science,3,8,7,3,Physics
+Science,6,2,9,8,Medicine
+Arts,2,10,3,4,Journalism
+Arts,3,7,6,7,Architecture
+Science,8,6,9,3,Physics
+Commerce,10,7,10,2,Business Management
+Commerce,7,6,2,1,Economics
+Commerce,9,8,4,9,Accounting
+Science,5,10,10,3,Physics
+Science,3,10,7,3,Biotechnology
+Commerce,9,3,10,3,Marketing
+Commerce,10,3,7,6,Economics
+Arts,10,10,1,7,Graphic Design
+Commerce,3,10,1,7,Accounting
+Science,2,1,8,5,Data Science
+Commerce,3,8,10,3,Business Management
+Arts,1,10,10,2,Psychology
+Arts,5,5,7,4,Architecture
+Arts,1,1,7,2,Graphic Design
+Commerce,7,10,7,4,Marketing
+Commerce,5,9,3,7,Marketing
+Science,5,10,7,9,Biotechnology
+Science,10,4,10,10,Engineering
+Arts,5,7,1,9,Architecture
+Science,5,8,7,7,Engineering
+Commerce,10,8,2,7,Finance
+Arts,3,2,5,4,Graphic Design
+Commerce,1,4,6,2,Marketing
+Commerce,3,7,6,1,Economics
+Arts,9,6,3,1,Architecture
+Arts,3,3,1,1,Graphic Design
+Arts,2,9,10,9,Graphic Design
+Science,7,10,5,6,Physics
+Arts,7,1,2,1,Graphic Design
+Commerce,9,7,5,1,Accounting
+Arts,4,6,6,2,Journalism
+Commerce,1,7,8,9,Accounting
+Arts,1,3,3,7,Journalism
+Science,3,1,8,5,Biotechnology
+Commerce,8,2,6,9,Finance
+Science,8,4,5,3,Data Science
+Arts,2,10,4,6,Architecture
+Science,3,1,8,4,Biotechnology
+Commerce,6,3,10,8,Marketing
+Arts,1,5,3,2,Journalism
+Arts,10,10,3,1,Graphic Design
+Science,6,3,3,9,Engineering
+Science,8,8,1,2,Engineering
+Science,4,2,7,8,Data Science
+Science,1,5,1,7,Biotechnology
+Arts,9,7,7,5,Architecture
+Science,7,10,5,4,Biotechnology
+Science,10,7,2,4,Physics
+Science,6,2,1,8,Data Science
+Science,6,8,2,8,Medicine
+Commerce,8,7,10,8,Accounting
+Arts,2,8,4,8,Graphic Design
+Arts,2,9,2,9,Psychology
+Science,5,4,2,4,Biotechnology
+Arts,6,2,4,6,Design
+Commerce,7,10,9,9,Economics
+Arts,9,1,1,7,Architecture
+Arts,2,2,9,10,Psychology
+Commerce,9,10,4,2,Accounting
+Commerce,8,1,5,4,Business Management
+Arts,2,6,6,9,Journalism
+Science,6,3,3,4,Physics
+Commerce,9,7,10,4,Marketing
+Commerce,2,3,7,8,Business Management
+Arts,9,2,2,10,Architecture
+Science,5,6,6,9,Medicine
+Commerce,3,3,5,5,Marketing
+Science,1,3,5,1,Biotechnology
+Arts,2,8,5,3,Design
+Arts,1,4,2,3,Design
+Commerce,7,6,1,6,Business Management
+Science,2,3,1,7,Data Science
+Arts,3,7,2,9,Architecture
+Commerce,10,9,10,4,Accounting
+Science,6,1,8,9,Medicine
+Commerce,3,10,3,10,Marketing
+Commerce,5,7,5,7,Accounting
+Arts,5,6,3,9,Architecture
+Science,2,8,10,3,Biotechnology
+Commerce,10,5,6,8,Marketing
+Arts,3,6,8,8,Journalism
+Science,4,3,1,9,Physics
+Science,4,2,5,7,Data Science
+Commerce,5,6,4,6,Economics
+Commerce,1,10,6,8,Business Management
+Arts,8,2,4,8,Psychology
+Science,8,10,10,1,Engineering
+Science,6,3,1,2,Physics
+Arts,5,3,4,1,Design
+Arts,9,10,1,9,Design
+Science,8,9,4,2,Medicine
+Science,3,1,3,7,Medicine
+Commerce,8,8,5,7,Economics
+Arts,6,10,6,7,Graphic Design
+Arts,5,9,9,6,Graphic Design
+Arts,7,2,10,7,Psychology
+Commerce,8,8,7,6,Business Management
+Arts,4,4,4,10,Journalism
+Commerce,1,2,5,9,Business Management
+Science,8,3,9,1,Engineering
+Science,9,2,5,6,Biotechnology
+Commerce,7,2,6,8,Business Management
+Science,6,3,4,6,Biotechnology
+Arts,9,4,10,3,Graphic Design
+Commerce,3,2,6,6,Accounting
+Science,10,5,4,8,Data Science
+Science,10,9,4,3,Medicine
+Arts,6,10,2,5,Journalism
+Commerce,2,3,2,2,Marketing
+Arts,3,5,10,1,Architecture
+Science,8,4,1,2,Physics
+Science,2,5,7,7,Biotechnology
+Commerce,7,4,4,2,Accounting
+Arts,7,6,3,1,Design
+Commerce,3,5,9,8,Business Management
+Commerce,1,2,4,10,Finance
+Commerce,1,7,5,7,Marketing
+Arts,10,6,8,8,Journalism
+Arts,7,8,5,1,Design
+Science,5,6,9,6,Biotechnology
+Science,1,3,3,9,Data Science
+Science,3,5,9,8,Data Science
+Arts,1,8,10,6,Design
+Arts,1,4,7,7,Journalism
+Commerce,1,4,6,9,Economics
+Science,7,7,7,10,Biotechnology
+Commerce,8,8,9,4,Marketing
+Commerce,8,2,4,6,Marketing
+Commerce,2,8,10,8,Accounting
+Arts,9,3,7,5,Architecture
+Commerce,7,5,8,10,Accounting
+Science,10,4,2,1,Data Science
+Science,2,10,2,8,Medicine
+Arts,5,1,8,4,Psychology
+Science,9,4,6,3,Biotechnology
+Arts,8,10,5,10,Graphic Design
+Arts,10,10,6,3,Architecture
+Science,3,4,6,3,Biotechnology
+Science,3,5,7,4,Medicine
+Commerce,1,1,3,4,Finance
+Arts,3,1,7,2,Journalism
+Arts,3,1,10,10,Journalism
+Commerce,10,8,2,4,Finance
+Arts,3,10,1,10,Graphic Design
+Arts,6,3,6,5,Graphic Design
+Science,3,4,2,1,Physics
+Science,4,6,2,1,Engineering
+Commerce,6,10,2,1,Accounting
+Arts,2,7,4,3,Architecture
+Science,2,9,2,10,Physics
+Arts,8,5,10,10,Psychology
+Science,9,10,7,6,Engineering
+Commerce,4,2,9,9,Marketing
+Arts,3,3,9,9,Journalism
+Commerce,5,5,4,7,Accounting
+Arts,7,5,1,3,Journalism
+Commerce,8,4,7,3,Business Management
+Commerce,1,3,6,5,Business Management
+Arts,6,2,9,8,Architecture
+Arts,7,9,5,1,Psychology
+Science,10,10,10,2,Physics
+Science,10,5,7,9,Data Science
+Arts,7,7,10,7,Graphic Design
+Science,5,9,5,9,Medicine
+Science,5,8,7,10,Biotechnology
+Science,4,6,8,10,Medicine
+Science,1,5,10,3,Biotechnology
+Science,4,10,2,5,Biotechnology
+Arts,7,7,6,4,Design
+Commerce,3,3,3,8,Marketing
+Arts,6,3,10,8,Graphic Design
+Science,3,10,5,10,Data Science
+Science,7,9,4,1,Engineering
+Science,1,4,3,3,Physics
+Arts,7,2,3,1,Architecture
+Arts,6,7,2,4,Graphic Design
+Science,3,8,3,4,Engineering
+Commerce,10,1,9,9,Economics
+Commerce,9,9,4,3,Finance
+Arts,6,10,6,4,Psychology
+Science,10,7,8,8,Engineering
+Science,4,3,6,8,Physics
+Commerce,9,9,4,10,Economics
+Science,9,5,2,7,Physics
+Commerce,9,2,8,9,Economics
+Arts,1,8,9,2,Graphic Design
+Commerce,10,5,5,3,Economics
+Commerce,2,6,6,1,Accounting
+Commerce,5,7,3,9,Marketing
+Commerce,7,1,8,2,Accounting
+Arts,7,5,9,1,Architecture
+Arts,2,8,4,9,Journalism
+Commerce,2,3,10,10,Economics
+Arts,9,7,4,9,Design
+Arts,5,7,4,5,Journalism
+Commerce,7,7,5,4,Finance
+Science,6,2,4,10,Data Science
+Arts,8,6,4,5,Architecture
+Science,1,4,3,6,Engineering
+Arts,1,3,4,7,Design
+Science,1,3,5,10,Medicine
+Arts,2,7,8,5,Architecture
+Commerce,7,1,3,4,Economics
+Arts,5,5,5,10,Architecture
+Science,5,6,8,6,Engineering
+Arts,5,3,1,1,Graphic Design
+Commerce,9,3,3,10,Economics
+Commerce,7,1,5,3,Marketing
+Arts,3,10,6,7,Psychology
+Arts,9,2,1,9,Architecture
+Commerce,7,1,10,1,Economics
+Commerce,8,5,1,1,Economics
+Commerce,8,9,8,9,Economics
+Arts,4,2,9,8,Graphic Design
+Commerce,4,5,8,5,Business Management
+Commerce,6,5,4,9,Finance
+Commerce,4,6,4,4,Economics
+Arts,9,5,2,2,Journalism
+Arts,4,5,8,2,Psychology
+Arts,9,6,5,3,Design
+Commerce,7,1,2,4,Economics
+Commerce,9,3,8,2,Finance
+Arts,4,2,9,3,Psychology
+Commerce,10,1,1,10,Marketing
+Arts,6,2,7,1,Journalism
+Commerce,1,1,8,7,Accounting
+Arts,8,3,6,3,Journalism
+Commerce,4,7,9,10,Accounting
+Commerce,1,7,8,1,Economics
+Science,10,7,5,10,Engineering
+Commerce,3,3,10,4,Accounting
+Commerce,9,5,3,7,Business Management
+Science,8,9,10,2,Engineering
+Commerce,7,2,10,8,Economics
+Science,3,5,4,2,Data Science
+Commerce,2,7,5,2,Accounting
+Arts,10,6,7,9,Psychology
+Commerce,7,6,1,8,Finance
+Arts,8,8,3,10,Design
+Science,1,8,1,3,Physics
+Arts,5,5,10,10,Psychology
+Arts,5,7,10,4,Psychology
+Arts,4,3,2,9,Architecture
+Arts,2,7,2,3,Graphic Design
+Arts,6,5,4,10,Architecture
+Commerce,5,5,2,9,Accounting
+Science,7,9,5,10,Biotechnology
+Science,3,3,7,8,Medicine
+Arts,4,5,10,6,Journalism
+Arts,10,4,5,1,Architecture
+Science,8,9,10,5,Medicine
+Commerce,2,5,7,6,Marketing
+Science,6,3,5,4,Biotechnology
+Commerce,6,3,5,5,Business Management
+Arts,7,7,5,2,Journalism
+Commerce,4,6,9,4,Economics
+Commerce,5,3,8,4,Economics
+Science,4,10,10,2,Engineering
+Arts,2,10,4,8,Design
+Commerce,3,5,4,10,Accounting
+Arts,6,3,5,9,Journalism
+Commerce,3,8,8,8,Finance
+Science,2,7,7,7,Engineering
+Science,9,5,4,4,Data Science
+Commerce,6,10,3,7,Economics
+Arts,5,10,8,2,Journalism
+Science,9,4,4,1,Engineering
+Science,9,10,7,9,Medicine
+Science,2,4,4,1,Data Science
+Commerce,2,9,9,1,Finance
+Science,3,7,3,5,Medicine
+Arts,10,5,5,5,Psychology
+Arts,4,10,4,10,Design
+Science,5,1,5,2,Physics
+Commerce,1,2,2,2,Marketing
+Commerce,4,9,4,9,Marketing
+Commerce,7,7,3,9,Economics
+Science,5,10,7,9,Data Science
+Commerce,7,9,10,3,Marketing
+Arts,9,6,3,4,Architecture
+Science,10,9,3,9,Biotechnology
+Science,7,5,9,8,Physics
+Commerce,9,1,1,9,Business Management
+Arts,8,5,3,6,Graphic Design
+Arts,8,2,9,1,Journalism
+Science,4,6,10,5,Biotechnology
+Commerce,9,2,5,6,Accounting
+Commerce,7,5,2,9,Marketing
+Science,10,6,10,10,Biotechnology
+Commerce,9,3,2,1,Marketing
+Science,6,2,10,4,Medicine
+Arts,5,5,8,1,Psychology
+Arts,8,6,6,5,Graphic Design
+Commerce,9,5,7,5,Marketing
+Science,8,5,2,7,Medicine
+Arts,1,7,6,3,Journalism
+Arts,10,10,8,2,Design
+Commerce,6,5,6,4,Business Management
+Arts,3,7,7,6,Graphic Design
+Arts,6,9,9,5,Graphic Design
+Arts,1,1,10,8,Journalism
+Arts,8,8,2,7,Journalism
+Science,8,5,10,5,Engineering
+Science,2,3,7,4,Engineering
+Science,2,2,10,5,Data Science
+Arts,2,6,10,5,Psychology
+Commerce,10,9,5,4,Economics
+Science,6,2,1,6,Medicine
+Commerce,7,3,1,9,Marketing
+Arts,5,4,5,6,Architecture
+Science,7,4,2,7,Engineering
+Commerce,8,7,8,3,Finance
+Arts,3,4,9,9,Graphic Design
+Science,2,8,6,1,Medicine
+Commerce,5,9,7,3,Finance
+Science,6,5,6,10,Medicine
+Commerce,3,1,2,6,Finance
+Science,5,9,2,10,Medicine
+Commerce,3,5,1,6,Economics
+Science,9,10,9,8,Data Science
+Science,8,2,2,4,Engineering
+Commerce,8,6,3,2,Marketing
+Arts,1,5,9,5,Architecture
+Science,6,1,10,7,Data Science
+Commerce,8,1,9,5,Accounting
+Commerce,8,6,5,2,Marketing
+Commerce,9,7,3,6,Marketing
+Science,9,10,9,6,Physics
+Science,3,3,9,5,Physics
+Commerce,4,2,5,9,Marketing
+Arts,4,1,3,7,Graphic Design
+Science,3,5,5,5,Engineering
+Commerce,1,7,8,3,Accounting
+Science,9,3,8,8,Engineering
+Science,6,10,2,9,Medicine
+Science,2,2,9,3,Physics
+Commerce,4,4,2,8,Marketing
+Arts,6,1,5,4,Architecture
+Commerce,10,4,4,6,Business Management
+Science,7,4,1,5,Physics
+Science,2,3,3,9,Biotechnology
+Arts,9,7,3,2,Journalism
+Arts,4,8,1,4,Graphic Design
+Arts,3,7,7,8,Psychology
+Arts,3,7,8,2,Graphic Design
+Commerce,10,5,7,5,Marketing
+Science,5,4,2,8,Data Science
+Science,9,9,8,3,Engineering
+Science,4,9,4,1,Data Science
+Commerce,2,3,5,9,Marketing
+Commerce,3,6,8,4,Finance
+Arts,7,3,4,3,Architecture
+Commerce,8,6,10,1,Business Management
+Arts,8,7,6,9,Graphic Design
+Arts,8,10,10,4,Journalism
+Science,3,4,1,7,Medicine
+Arts,4,2,10,6,Architecture
+Arts,10,2,8,8,Journalism
+Arts,3,9,7,2,Graphic Design
+Commerce,1,2,4,4,Finance
+Arts,9,8,6,4,Psychology
+Arts,6,9,10,5,Design
+Commerce,3,6,3,3,Finance
+Commerce,3,4,1,6,Business Management
+Arts,2,2,8,2,Architecture
+Commerce,9,3,2,5,Marketing
+Arts,6,5,9,7,Psychology
+Arts,7,6,6,7,Journalism
+Science,8,4,6,7,Medicine
+Arts,8,10,6,9,Design
+Arts,8,5,3,9,Psychology
+Science,1,1,3,2,Engineering
+Arts,8,1,9,5,Graphic Design
+Arts,6,4,5,6,Journalism
+Science,8,9,10,1,Data Science
+Commerce,9,9,1,5,Marketing
+Science,5,1,10,1,Physics
+Commerce,3,10,7,1,Finance
+Arts,2,8,10,6,Journalism
+Science,4,9,8,4,Engineering
+Commerce,2,9,3,1,Economics
+Science,1,2,10,1,Physics
+Arts,7,3,6,4,Design
+Commerce,5,3,1,4,Accounting
+Commerce,7,7,2,7,Marketing
+Science,2,5,3,6,Biotechnology
+Commerce,2,4,7,4,Economics
+Commerce,2,2,5,10,Business Management
+Arts,8,9,3,5,Psychology
+Science,1,2,6,2,Engineering
+Arts,9,2,4,7,Architecture
+Commerce,6,6,4,7,Finance
+Arts,7,9,8,4,Psychology
+Arts,6,3,3,1,Design
+Arts,1,7,6,4,Psychology
+Arts,6,9,7,5,Psychology
+Science,2,8,4,8,Engineering
+Commerce,1,2,2,10,Economics
+Arts,5,3,3,7,Journalism
+Science,8,6,2,8,Medicine
+Science,4,1,6,6,Engineering
+Science,1,3,3,6,Data Science
+Arts,4,9,1,7,Graphic Design
+Science,10,3,9,1,Medicine
+Arts,2,2,9,3,Design
+Commerce,1,2,7,8,Finance
+Science,5,3,10,7,Physics
+Arts,6,5,3,4,Graphic Design
+Science,9,10,7,1,Physics
+Science,9,9,8,4,Data Science

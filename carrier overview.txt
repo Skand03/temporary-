@@ -1,0 +1,19 @@
+Project Overview
+
+    Stream Selection:
+    Users (12th-grade students) select their stream (e.g., Science, Commerce, Arts).
+
+    Subject Assessment:
+    After selecting a stream, the interface dynamically presents an assessment with 10-15 questions about their interests and strengths in subjects related to the selected stream.
+
+    Assessment Results:
+    Based on the answers, the system will analyze the subject(s) they are strongest in and provide suggestions for career fields accordingly.
+
+    Career Recommendations:
+    Show career fields related to their stream and interests (e.g., Engineering, Medical, Finance, etc.).
+
+    College Suggestions:
+    Based on their field selection, suggest suitable colleges.
+
+    AI Model:
+    You’ll build and train a model to predict the best career path based on the student’s answers and other inputs. This model should have high accuracy (90%+).

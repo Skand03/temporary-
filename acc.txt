@@ -1,0 +1,47 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+from imblearn.over_sampling import SMOTE
+
+# Step 1: Load the dataset
+data = pd.read_csv("career_data.csv")  # Change to your actual dataset file
+
+# Step 2: Display dataset structure
+print("Dataset Overview:\n", data.head())
+print("\nColumns:\n", data.columns)
+
+# Step 3: Rename columns to avoid case-sensitivity issues
+data.rename(columns=lambda x: x.strip().lower().replace(" ", "_"), inplace=True)
+
+# Step 4: Handle missing values
+data.dropna(inplace=True)  # Drop rows with missing values
+
+# Step 5: Encode categorical variables
+if data["recommended_career"].dtype == "object":
+    data["recommended_career"] = data["recommended_career"].astype("category").cat.codes
+
+if data["stream"].dtype == "object":
+    data["stream"] = data["stream"].astype("category").cat.codes
+
+# Step 6: Define Features (X) and Target (y)
+X = data.drop(columns=["recommended_career"])  # Features
+y = data["recommended_career"]  # Target
+
+# Step 7: Split data into training & testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
+
+# Step 8: Apply SMOTE to balance the classes
+smote = SMOTE(random_state=42)
+X_train_resampled, y_train_resampled = smote.fit_resample(X_train, y_train)
+
+# Step 9: Train the Random Forest Classifier
+model = RandomForestClassifier(random_state=42)
+model.fit(X_train_resampled, y_train_resampled)
+
+# Step 10: Make predictions
+y_pred = model.predict(X_test)
+
+# Step 11: Evaluate model accuracy
+accuracy = accuracy_score(y_test, y_pred)
+print(f"\nModel Accuracy with SMOTE: {accuracy * 100:.2f}%")
